@@ -481,5 +481,5 @@ INSERT INTO pruebaSQL(Periodo,Clicks,Registros_IN,Primer_depósito_IN,Total_depo
 INSERT INTO pruebaSQL(Periodo,Clicks,Registros_IN,Primer_depósito_IN,Total_depositado_IN,Persona_que_apostaron_IN,Total_apostado,Net_revenue_IN) VALUES ('9/24/2023',NULL,2,8,9435.159241,891,62595.9008,1938.0075);
 INSERT INTO pruebaSQL(Periodo,Clicks,Registros_IN,Primer_depósito_IN,Total_depositado_IN,Persona_que_apostaron_IN,Total_apostado,Net_revenue_IN) VALUES ('9/24/2023',NULL,0,0,0,1,8.273084587,-2.384892871);
 ```
-## 3. Posterior a cargar los datos, se utilizo los codigos que estan alojados en el scrip 
+## 3. Posterior a cargar los datos, se utilizo los codigos que estan alojados en el script "EDA.sql"
 
